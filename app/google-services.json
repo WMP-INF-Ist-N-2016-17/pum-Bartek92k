@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "63199441852",
+    "firebase_url": "https://multitool-dea1c.firebaseio.com",
+    "project_id": "multitool-dea1c",
+    "storage_bucket": "multitool-dea1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63199441852:android:fbd0f7bd266fc5d9",
+        "android_client_info": {
+          "package_name": "com.example.multifunction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63199441852-l5907pjal7dp67tjhachnilsajk41mb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.multifunction",
+            "certificate_hash": "8eaf60cb7606f3a2b864e4c48508f954cff7c7a4"
+          }
+        },
+        {
+          "client_id": "63199441852-cjoue1cb9mk2eki49gl66g54lfl8upgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY_hMSvKGYs_81NoUPUOoQ_eTYeoG-hQo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63199441852-cjoue1cb9mk2eki49gl66g54lfl8upgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
